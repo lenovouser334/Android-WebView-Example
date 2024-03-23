@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     ProgressBar progressBar;
     SwipeRefreshLayout swipeRefreshLayout;
 
-    String url = "http://codeflarelimited.com";
+    String url = "file:///android_asset/lost.html";
 
 //    final String filename= URLUtil.guessFileName(URLUtil.guessUrl(url));
 
